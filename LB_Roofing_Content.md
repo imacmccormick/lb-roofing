@@ -1,7 +1,7 @@
 # LB Roofing & Exteriors Project Content
 
 ## Site Configuration & Vibe
-- **Colors:** Navy Blue (#1a365d), Signal Red (#c53030), Slate Gray, and White.
+- **Colors:** Electric Blue (#003BD1), Signal Red (#c53030), Slate Gray, and White.
 - **Typography:** Clean sans-serif (e.g., Montserrat or Inter).
 - **Tone:** Professional, Trustworthy, Warm, Family-Oriented.
 
@@ -27,7 +27,9 @@ The name LB Roofing and Exteriors is especially meaningful to us—it comes from
 - **Lincoln**, our mini Goldendoodle, is full of personality and usually found chasing his favorite yellow ball. 
 - **Beau**, our baby boy, keeps us smiling with his joyful spirit and love for games like peek-a-boo.
 
-Tyler is supported by his wife, **Heather**, an elementary school principal who shares his dedication to helping others. When we’re not working, we enjoy exploring local coffee shops and spending time as a family.
+Tyler's wife, **Heather**, is an elementary school principal who shares his dedication to helping others and strengthening the community. 
+
+When they’re not working, they enjoy spending time together as a family and exploring new coffee shops around town.
 
 ---
 
