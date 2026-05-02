@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import {
   Phone, Menu, X, ChevronDown, ChevronUp, CheckCircle,
-  Shield, Home, Wrench, Sun, Droplets, Grid, Star, MapPin
+  Shield, Home, Wrench, Sun, Droplets, Grid, Star
 } from 'lucide-react';
 
 const FORMSPREE_ENDPOINT = "https://formspree.io/f/placeholder_id";
